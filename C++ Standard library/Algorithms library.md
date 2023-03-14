@@ -151,3 +151,5 @@ C++ 的算法库 `<algorithm>` 中定义了大约八十个标准算法。这些�
 - `random_shuffle` e.g. `random_shuffle(b, e)`, `random_shuffle(b, e, f)`
 
 洗牌序列中的元素，若无给予的随机数发生器，则使用默认随机数发生器。
+
+- `shuffle` e.g.
